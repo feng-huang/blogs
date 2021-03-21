@@ -1,3 +1,5 @@
-# blogs
-## test
-### Test
+# Kali Linux
+## Win Kex
+```bash
+vncserver -localhost no
+```
